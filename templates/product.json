@@ -124,11 +124,65 @@
         "show_image_outline": true,
         "show_vendor": false
       }
+    },
+    "06046043-eebc-4636-bd7d-71fcf424ce2c": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "c671a9d1-3c7a-4636-958d-e5ac6f7b2917": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.          Reprehenderit ipsa aliquam perferendis possimus in alias quo iure fugit eius aperiam.<\/p>",
+            "name": "John Doe",
+            "image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "82b5ca97-ef39-4124-96f6-a4c744ab19e4": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.          Reprehenderit ipsa aliquam perferendis possimus in alias quo iure fugit eius aperiam.<\/p>",
+            "name": "John Doe",
+            "image": "shopify:\/\/shop_images\/user_2.jpg"
+          }
+        },
+        "2bec528f-86ea-4c79-9fd5-f7af06f122a3": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.          Reprehenderit ipsa aliquam perferendis possimus in alias quo iure fugit eius aperiam.<\/p>",
+            "name": "John Doe",
+            "image": "shopify:\/\/shop_images\/user_3.jpg"
+          }
+        },
+        "99c4a33a-3895-484b-a85b-7e926595b80f": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.          Reprehenderit ipsa aliquam perferendis possimus in alias quo iure fugit eius aperiam.<\/p>",
+            "name": "John Doe",
+            "image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "6552e1e7-3b6a-4785-8a60-90f64a2d9d73": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.          Reprehenderit ipsa aliquam perferendis possimus in alias quo iure fugit eius aperiam.<\/p>",
+            "name": "John Doe",
+            "image": "shopify:\/\/shop_images\/user_5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "c671a9d1-3c7a-4636-958d-e5ac6f7b2917",
+        "82b5ca97-ef39-4124-96f6-a4c744ab19e4",
+        "2bec528f-86ea-4c79-9fd5-f7af06f122a3",
+        "99c4a33a-3895-484b-a85b-7e926595b80f",
+        "6552e1e7-3b6a-4785-8a60-90f64a2d9d73"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "main",
     "133d3235-0973-4eb7-b929-0fe630ed2e82",
-    "440f94ed-bf9c-4b45-b124-0f2a6d5d6882"
+    "440f94ed-bf9c-4b45-b124-0f2a6d5d6882",
+    "06046043-eebc-4636-bd7d-71fcf424ce2c"
   ]
 }
