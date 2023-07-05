@@ -14,11 +14,16 @@
           "settings": {
             "tax_notice_text": "taxes inlcuded"
           }
+        },
+        "3b980852-6a8d-47b9-b6b2-23799972e6b5": {
+          "type": "product_price_block",
+          "settings": {}
         }
       },
       "block_order": [
         "4aea88eb-2df2-4334-81a3-5667ec93afb7",
-        "6a039d50-d867-4f3c-905f-d71d33cbd01e"
+        "6a039d50-d867-4f3c-905f-d71d33cbd01e",
+        "3b980852-6a8d-47b9-b6b2-23799972e6b5"
       ],
       "settings": {
         "show_reviews": true
