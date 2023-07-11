@@ -1,0 +1,60 @@
+JUST PLAIN TEXT
+<br>
+
+RATING:
+{{product.metafields.my_fields.test_rating}}
+<br>
+DATE:
+{{product.metafields.my_fields.test_date}}
+<br>
+DATE_TIME:
+{{product.metafields.my_fields.test_date_time}}
+<br>
+COLOR:
+{{product.metafields.my_fields.test_color}}
+<br>
+
+MEANINGFUL DATA: TAG FILTER
+<br>
+
+RATING:
+{{product.metafields.my_fields.test_rating | metafield_tag}}
+<br>
+DATE:
+{{product.metafields.my_fields.test_date | metafield_tag}}
+<br>
+DATE_TIME:
+{{product.metafields.my_fields.test_date_time | metafield_tag}}
+<br>
+COLOR:
+{{product.metafields.my_fields.test_color | metafield_tag}}
+<br>
+
+MEANINGFUL DATA: TEXT FILTER
+<br>
+
+RATING:
+{{product.metafields.my_fields.test_rating | metafield_text}}
+<br>
+DATE:
+{{product.metafields.my_fields.test_date | metafield_text}}
+<br>
+DATE_TIME:
+{{product.metafields.my_fields.test_date_time | metafield_text}}
+<br>
+COLOR:
+{{product.metafields.my_fields.test_color | metafield_text}}
+<br>
+
+
+{% schema %}
+    {
+        "name":"metafields section",
+        "settings":[],
+        "presets":[
+            {
+                "name":"metafields section"
+            }
+        ]
+    }
+{% endschema %}
